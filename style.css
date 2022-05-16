@@ -1,0 +1,19 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+h2,
+.container {
+  text-align: center;
+}
+
+h2 {
+  margin-bottom: 20px;
+  font-size: large;
+}
+
+input,
+button {
+  font-size: large;
+}
