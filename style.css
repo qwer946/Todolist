@@ -21,7 +21,7 @@ button {
   padding: 5px;
 }
 
-.main {
+body {
   background: linear-gradient(to top, #eb5757, #000000);
   height: 100vh;
 }
@@ -32,6 +32,6 @@ button {
   border-radius: 5px;
 }
 
-.parastyle {
+.para {
   font-size: 25px;
 }
