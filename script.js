@@ -5,4 +5,5 @@ let todolists = document.querySelector(".todolists");
 btns.addEventListener("click", function () {
   let lists = document.createElement("para");
   lists.innerText = input.value;
+  todolists.append(lists);
 });
